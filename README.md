@@ -9,3 +9,5 @@ The project will include several visualizations, such as:
 4. Vaccine rollout dashboard: This dashboard will provide information on the progress of the Covid-19 vaccination program in India. It will include charts showing the total number of people vaccinated, the number of doses administered, and the percentage of the population vaccinated.
 5. ICMR Testing Labs in Each State: This dashboard provide information on the testing of ICMR Labs of the each state.
 Overall, the Covid-19 India Tableau project aims to provide an interactive and informative platform to analyze the Covid-19 situation in India and help inform decision-making. The project will be regularly updated with the latest data to ensure that the visualizations are up-to-date and accurate.
+
+All CSV File Download from "Kaggle".
